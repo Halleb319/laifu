@@ -22,7 +22,9 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 public class BaseApplicationStartTest {
     protected final Logger log = LoggerFactory.getLogger(getClass());
 
-
+/**
+ * 123
+ * */
     @Test
     public void makeTestPass() {
 
